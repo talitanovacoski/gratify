@@ -17,17 +17,13 @@
   font-weight: normal;
   font-style: normal; }
 
-.logo {
-  width: 70px;
-  left: 2px;
+#jar {
+  width: 20px;
 }
 
-.jar {
-  width: 30px;
-  float: right;
-  right: 2px;
+#logo {
+  width: 75px;
 }
-
 
 .ion, .ionicons,
 .ion-alert:before,
